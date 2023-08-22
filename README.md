@@ -17,7 +17,7 @@ I'm currently expanding my skills in front-end web development to create more ve
 I'm open to collaborating on exciting projects that involve Flutter development, Firebase integration, or API integrations. If you have any innovative ideas or projects, feel free to reach out to me!
 
 ## How to Reach Me
-📫 You can contact me through my email: numl-f19-12356@numls.edu.pk , umairsaeed7432@gmail.com
+📫 You can contact me through my email: me@umair-saeed.co
 💼 Connect with me on LinkedIn: https://www.linkedin.com/in/umair-saeed-a0b6501a6/
 
 <!---
