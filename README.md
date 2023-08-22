@@ -18,7 +18,7 @@ I'm open to collaborating on exciting projects that involve Flutter development,
 
 ## How to Reach Me
 📫 You can contact me through my email: numl-f19-12356@numls.edu.pk , umairsaeed7432@gmail.com
-💼 Connect with me on LinkedIn: https://www.linkedin.com/in/malik-umair-a0b6501a6/
+💼 Connect with me on LinkedIn: https://www.linkedin.com/in/umair-saeed-a0b6501a6/
 
 <!---
 umairsaeed-us/umairsaeed-us is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
